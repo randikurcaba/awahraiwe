@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeephaecho.willbc.cn/sitemap.xml
